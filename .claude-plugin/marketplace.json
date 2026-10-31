@@ -1,0 +1,5 @@
+{
+  "name": "claude-matrix-thinking",
+  "owner": { "name": "Oleksandr Lebediev" },
+  "plugins": [{ "name": "matrix-thinking", "source": "./" }]
+}

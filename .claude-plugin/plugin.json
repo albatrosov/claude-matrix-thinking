@@ -1,0 +1,8 @@
+{
+  "name": "matrix-thinking",
+  "version": "0.1.0",
+  "description": "Shows the model's live thinking as Matrix rain made of its own words",
+  "author": { "name": "Oleksandr Lebediev" },
+  "repository": "https://github.com/albatrosov/claude-matrix-thinking",
+  "types": "./types/index.d.ts"
+}
