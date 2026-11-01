@@ -4,6 +4,8 @@ A Claude Code mod that shows Claude's thinking as Matrix-style rain made of the
 words it is thinking. Each column writes real words from the thinking, top to
 bottom, and fades them out.
 
+![Columns of words from Claude's thinking, written top to bottom and fading out](docs/rain.svg)
+
 - **Desktop app (Code tab):** a 20-row block of rain under your prompt, from
   Claude's first thought to the end of the turn.
 - **Terminal:** the same rain in the band above the prompt.
